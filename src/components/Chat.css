@@ -15,7 +15,7 @@ small {
 /*------------------------------------------------------------------*/
 .container {
   position: absolute;
-  bottom: -10px;
+  bottom: 0;
   left: 20px;
   width: var(--width);
   height: var(--height);
