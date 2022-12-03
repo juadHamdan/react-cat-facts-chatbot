@@ -1,6 +1,6 @@
 # React cat facts chatbot
 
-https://csb-zhgfhu.netlify.app/
+### Demo: https://csb-zhgfhu.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/64545813/175998567-73cb0470-2420-49c1-89aa-c9bf62b561a5.png)
 
